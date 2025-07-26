@@ -29,4 +29,5 @@ using namespace std;
       push(9);
       push(20);
       push(5);
+      pop();
   }
